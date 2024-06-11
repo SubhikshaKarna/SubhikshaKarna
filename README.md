@@ -1,4 +1,4 @@
-![JXA0](https://github.com/SubhikshaKarna/SubhikshaKarna/assets/149041362/90c309c5-1b18-4132-9743-4c5183e1146f)
+                                 ![JXA0](https://github.com/SubhikshaKarna/SubhikshaKarna/assets/149041362/90c309c5-1b18-4132-9743-4c5183e1146f)
 
 <h1 align="center">Hi 👋, I'm Subhiksha Karna</h1>
 <h3 align="center">A passionate Coder from India</h3>
