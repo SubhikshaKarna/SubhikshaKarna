@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subhiksha Karna</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-- 🔭 I’m currently working on **GAN Models**
+- 🔭 I’m currently working on a **React project**
 
 - 🌱 I’m currently learning **DSA in Python**
 
