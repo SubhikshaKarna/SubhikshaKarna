@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Subhiksha%20Karna&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Angular%20%26%20.NET&descAlignY=55&animation=fadeIn" width="100%" alt="Subhiksha Karna profile banner" />
+![JXA0 (1)](https://github.com/SubhikshaKarna/SubhikshaKarna/assets/149041362/16f163ca-a8df-4611-afff-3356cfce80f2)
 
 ### 👋 Hi there! Welcome to my GitHub profile
 
@@ -62,7 +62,7 @@
   <tr>
     <td width="50%">
       <h3>🎨 Frontend</h3>
-      <p>Angular, TypeScript, JavaScript, HTML5 and CSS3</p>
+      <p>Angular, TypeScript, JavaScript, HTML and CSS</p>
     </td>
     <td width="50%">
       <h3>⚡ Backend</h3>
