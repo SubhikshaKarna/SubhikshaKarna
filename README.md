@@ -1,6 +1,8 @@
 <!-- PROFILE HEADER -->
 
 <div align="center">
+  
+![JXA0 (1)](https://github.com/SubhikshaKarna/SubhikshaKarna/assets/149041362/16f163ca-a8df-4611-afff-3356cfce80f2)
 
 ### 👋 Hi there! Welcome to my GitHub profile
 
